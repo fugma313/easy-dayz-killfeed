@@ -8,3 +8,6 @@ REQUIREMENTS:
 4. MUST use -adminlog in the args when running DayZServer_x64.exe
 5. MUST have RConPassword set, RestrictRCon must be set to 0, and RConPort set. (all in DayZServer/battleye/BEServer_x64.cfg)
 6. MUST set the proper information into the script.
+
+SUPPORT:
+Add fugma313 on Discord, you may have to join a server so we have one in common (https://discord.com/invite/PPzdNrZZW2)
