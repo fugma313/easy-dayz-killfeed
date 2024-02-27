@@ -1,5 +1,4 @@
-Simple python3 script to locally read the DayZ administrator log and announce over RCon when someone is killed on the server.
-
+Simple python3 script to get an ingame killfeed in your DayZ server without installing any mods or paying for RCon tools to do it.  This script will locally read the DayZ administrator log and announce over RCon when someone is killed on the server.
 You can easily use this script on the same server that you are running DayZ with near-zero latency, and it shouldn't cause any issues for other RCon tools.
 
 REQUIREMENTS:
